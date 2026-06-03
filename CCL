@@ -86,3 +86,5 @@ vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&se
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%B5%40chillguy_vpn
 vless://67580242-b2fc-4dba-9f42-da2d05d9ab3e@45.130.125.160:443?encryption=none&security=tls&sni=ssj.new-persian-song.ir&fp=chrome&allowInsecure=1&type=ws&host=ssj.new-persian-song.ir&path=%2F%3Fed%3D80#%F0%9F%94%B5%40chillguy_vpn
 vless://586db082-dcfc-4599-8b52-af4cf7da8330@blit2.hamrahcore.ir:719?encryption=none&security=none&type=ws&host=play.google.com&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560#%F0%9F%94%B5%40chillguy_vpn
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&security=tls&sni=s1.noh-first.info&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=s1.noh-first.info&path=%2Fsea#%F0%9F%94%B5%40chillguy_vpn
+vless://ce11cb9e-1a30-4f29-9f5b-e86d5607c0ec@104.19.64.105:2053?encryption=none&security=tls&sni=uiz2001.bingnet.online&type=ws&host=uiz2001.bingnet.online&path=%2F#%F0%9F%94%B5%40chillguy_vpn
